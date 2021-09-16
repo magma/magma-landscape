@@ -34,8 +34,7 @@ global:
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
-      - OSPO Adopter
-      - TODO Group Member
+      - Magma Core Foundation Member
 # Data for the twitter card
 twitter:
   search: magmalandscape.magmacore.org
@@ -47,12 +46,12 @@ relation:
   url: 
   values:
     - id: hosted
-      label: GraphQL Foundation Projects
+      label: Magma Core Foundation Projects
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       children:
         - id: foundationproject
-          label: GraphQL Foundation Projects
-          prefix: GraphQL
+          label: Magma Core Foundation Projects
+          prefix: Magma Core
           tag: Foundation Project
           color: '#3570af'
           big_picture_order: 1
@@ -75,10 +74,18 @@ membership:
     name: Magma Core Foundation
     label: Member
     funding: Premier
+  Ecosystem:
+    name: Magma Core Foundation
+    label: Member
+    funding: Ecosystem
   General:
     name: Magma Core Foundation
     label: Member
     funding: General
+  Associate:
+    name: Magma Core Foundation
+    label: Member
+    funding: Associate
   # category for LF members
   linux_foundation:
     name: LF
@@ -126,15 +133,6 @@ big_picture:
     fullscreen_header: See the interactive landscape at l.magmacore.org
     # add one element for each category in landscape.yml
     elements:
-      - type: HorizontalCategory
-        category: Magma Adopter
-        rows: 6
-        width: 970
-        height: 195
-        top: 0
-        left: 0
-        color: rgb(126,115,14)
-        fit_width: true
       - type: HorizontalCategory
         category: Magma Core Foundation Member
         rows: 4
@@ -190,4 +188,4 @@ test:
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
-  members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless
+  members: /card-mode?category=magma-core-foundation-member&grouping=category&embed=yes&style=borderless
