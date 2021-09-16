@@ -1,20 +1,20 @@
 global:
   # name of the landscape
-  name: OSPO Landscape
+  name: Magma Landscape
   # shortname
-  short_name: OSPO
+  short_name: Magma
   # repo where this landscape is hosted ( minus the https://github.com part )
-  repo: cncf/ospolandscape
+  repo: magma/magma-landscape
   # URL to the landscape
-  website: https://ospolandscape.todogroup.org
+  website: https://magmalandscape.magmacore.org
   # Short domain name for the landscape (usually this would change 'l' for 'landscape'
-  short_domain: l.todogroup.org
+  short_domain: l.magmacore.org
   # Your project's website
-  company_url: https://todogroup.org
+  company_url: https://magmacore.org
   # General contact email for the landscape
-  email: info@todogroup.org
+  email: operations@magmacore.org
   # Crunchbase entry for your projec
-  self: https://www.crunchbase.com/organization/todo-group
+  self: https://www.crunchbase.com/organization/magma-core-foundation
   # Slack channel for posting build updates
   slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
   meta:
@@ -30,51 +30,62 @@ global:
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   # Category for members
-  membership: TODO Group Member
+  membership: Magma Core Foundation Member
   # Update for the categories where you won't be showing the open source license ( typically done for members or conformance program members )
   flags:
     hide_license_for_categories:
-      - OSPO Adopter
-      - TODO Group Member
+      - Magma Core Foundation Member
 # Data for the twitter card
 twitter:
-  search: ospolandscape.todogroup.org
-  url: https://ospolandscape.todogroup.org
-  text: OSPO Landscape
+  search: magmalandscape.magmacore.org
+  url: https://magmalandscape.magmacore.org
+  text: Magma Landscape
 # Complete this section for identifying hosted projects of your project, along with member projects
 relation:
-  label: TODO Group Relation
-  url: todo
+  label: 
+  url: 
   values:
     - id: hosted
-      label: GraphQL Foundation Projects
+      label: Magma Core Foundation Projects
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       children:
         - id: foundationproject
-          label: GraphQL Foundation Projects
-          prefix: GraphQL
+          label: Magma Core Foundation Projects
+          prefix: Magma Core
           tag: Foundation Project
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: GraphQL Foundation Project
           big_picture_color: rgb(24,54,114)
     - id: company
-      label: TODO Group Member
+      label: Magma Core Foundation Member
       tag: Company
       big_picture_order: 3
     - id: member
-      label: TODO Group Member Products/Projects
-      tag: TODO Group Member
+      label: Magma Core Foundation Member Products/Projects
+      tag: Magma Core Foundation Member
     - id: false
-      label: Non-TODO Group Member Products/Projects
+      label: Non-Magma Core Foundation Member Products/Projects
       url: 'no'
 # membership levels
 membership:
   # category for project members
+  Premier:
+    name: Magma Core Foundation
+    label: Member
+    funding: Premier
+  Ecosystem:
+    name: Magma Core Foundation
+    label: Member
+    funding: Ecosystem
   General:
-    name: TODO Group
+    name: Magma Core Foundation
     label: Member
     funding: General
+  Associate:
+    name: Magma Core Foundation
+    label: Member
+    funding: Associate
   # category for LF members
   linux_foundation:
     name: LF
@@ -86,7 +97,7 @@ membership:
 home:
   # update to change the header text
   header: >
-    <h1>OSPO Landscape</h1> The OSPO landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>Magma Landscape</h1> The Magma landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   # don't change this
@@ -94,9 +105,9 @@ home:
     Crunchbase data is used under license from Crunchbase to CNCF.
 # ads for the landscape. Good opportunity to advertise your project events
 ads:
-  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=ospo_landscape&utm_medium=web&utm_campaign=kccnceu20
-    image: /images/info1.jpg
-    title: Kubecon + CloudNativeCon Europe 2020
+  - url: 
+    image: 
+    title:
 # preset searches
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
@@ -118,21 +129,12 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: OSPO Landscape
-    fullscreen_header: See the interactive landscape at l.todogroup.org
+    title: Magma Landscape
+    fullscreen_header: See the interactive landscape at l.magmacore.org
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: OSPO Adopter
-        rows: 6
-        width: 970
-        height: 195
-        top: 0
-        left: 0
-        color: rgb(126,115,14)
-        fit_width: true
-      - type: HorizontalCategory
-        category: TODO Group Member
+        category: Magma Core Foundation Member
         rows: 4
         width: 650
         height: 150
@@ -149,7 +151,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the OSPO community, and also shows the member organizations of the TODO Group.
+              This landscape is intended as a map to explore the Magma community, and also shows the member organizations of the Magma Core Foundation.
             top: 45
             left: 140
             right: 10
@@ -162,7 +164,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.todogroup.org
+            title: l.magmacore.org
             top: 95
             left: 10
             font_size: 18
@@ -177,13 +179,13 @@ big_picture:
             width: 90
             right: 10
             top: 10
-            title: TODO Group Logo
+            title: Magma Logo
 # test to make sure the build worked. Identify one landscape item that you know will always be there, preferably towards the top of the rendering
 test:
-  header: OSPO Landscape
-  section: TODO Group Member
+  header: Magma Landscape
+  section: Magma Core Foundation Member
   logo: airbnb-member.svg
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
-  members: /card-mode?category=open-mainframe-project-member-company&grouping=category&embed=yes&style=borderless
+  members: /card-mode?category=magma-core-foundation-member&grouping=category&embed=yes&style=borderless
