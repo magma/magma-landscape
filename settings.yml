@@ -182,7 +182,7 @@ big_picture:
 test:
   header: Magma Landscape
   section: Magma Core Foundation Member
-  logo: red_hat_inc.svg
+  logo: aqsacom.svg 
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
