@@ -22,7 +22,7 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 ## Current Version
 
-[![Landscape Template][3]][3]
+[![Landscape Template][PNG]][PNG]
 
 ## Interactive Version
 
@@ -37,7 +37,7 @@ Please see [ospolandscape.todogroup.org].
 -   Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
 -   The logo must adhere to the [landscape logo guidelines]
 
-If you think your project should be included, please open a pull request to add it to [landscape.yml]. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+If you think your project should be included, please open a pull request to add it to [landscape.yml]. For the logo, please upload an SVG to the `hosted_logos` directory.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
 
@@ -78,14 +78,14 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 
 <!--- Update urls and references in this section -->
 [Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
-[1]: https://david-dm.org/jmertic/landscape-template``
-[Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
-[2]: https://app.netlify.com/sites/graphql-landscape/deploys
-[ospolandscape.todogroup.org]: https://ospolandscape.todogroup.org
-[PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
-[PNG]: https://ospolandscape.todogroup.org/images/landscape.png
-[issue]: https://github.com/jmertic/landscape-template/issues/new
-[projects sorted by last update]: https://ospolandscape.todogroup.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
+[1]: https://david-dm.org/magma/magma-landscape
+[Netlify Status]: https://api.netlify.com/api/v1/badges/710bd979-eeba-497c-90ca-5302c652618d/deploy-status
+[2]: https://app.netlify.com/sites/magma-landscape/deploys
+[ospolandscape.todogroup.org]: https://magmalandscape.magmacore.org
+[PDF]: https://magmalandscape.magmacore.org/images/landscape.pdf
+[PNG]: https://magmalandscape.magmacore.org/images/landscape.png
+[issue]: https://github.com/magma/magma-landscape/issues/new
+[projects sorted by last update]: https://magmalandscape.magmacore.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 <!--- These shouldn't need updated -->
 [Landscape Template Logo]: images/left-logo.svg
 [Current Version]: #current-version
@@ -104,5 +104,3 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 [Crunchbase]: https://www.crunchbase.com/
 [Creative Commons Attribution 4.0 license]: https://creativecommons.org/licenses/by/4.0/
 [install directions]: INSTALL.md
-
- 
