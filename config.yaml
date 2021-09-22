@@ -5,7 +5,7 @@ landscapeMemberClasses:
    - name: Premier Membership
      category: Premier
    - name: General Membership
-     category: Platinum
+     category: General 
    - name: Ecosystem Membership
      category: Ecosystem
    - name: Associate Membership
@@ -13,4 +13,4 @@ landscapeMemberClasses:
 # SF Project record ID for your project
 project: a092M00001KWlycQAD 
 # Name of category for members 
-landscapeMemberCategory: Magma Core Foundation Member Company
+landscapeMemberCategory: Magma Core Foundation Member
