@@ -26,7 +26,7 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 ## Interactive Version
 
-Please see [ospolandscape.todogroup.org].
+Please see [landscape.magmacore.org].
 
 ## New Entries
 
@@ -81,7 +81,7 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 [1]: https://david-dm.org/magma/magma-landscape
 [Netlify Status]: https://api.netlify.com/api/v1/badges/710bd979-eeba-497c-90ca-5302c652618d/deploy-status
 [2]: https://app.netlify.com/sites/magma-landscape/deploys
-[ospolandscape.todogroup.org]: https://magmalandscape.magmacore.org
+[landscape.magmacore.org]: https://magmalandscape.magmacore.org
 [PDF]: https://magmalandscape.magmacore.org/images/landscape.pdf
 [PNG]: https://magmalandscape.magmacore.org/images/landscape.png
 [issue]: https://github.com/magma/magma-landscape/issues/new
