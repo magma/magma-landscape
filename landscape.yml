@@ -100,3 +100,6 @@ landscape:
             logo: free5gc.svg
             organization:
               name: free5GC
+      - subcategory:
+        name: Associate
+        items: []
