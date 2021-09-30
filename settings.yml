@@ -6,7 +6,7 @@ global:
   # repo where this landscape is hosted ( minus the https://github.com part )
   repo: magma/magma-landscape
   # URL to the landscape
-  website: https://magmalandscape.magmacore.org
+  website: https://landscape.magmacore.org
   # Short domain name for the landscape (usually this would change 'l' for 'landscape'
   short_domain: l.magmacore.org
   # Your project's website
