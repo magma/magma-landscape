@@ -6,6 +6,18 @@ landscape:
         name: Premier
         items:
           - item:
+            name: Arm Limited
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/Arm
+            crunchbase: https://www.crunchbase.com/organization/arm
+          - item:
+            name: Facebook, Inc.
+            homepage_url: https://facebook.com/
+            logo: facebook_inc.svg
+            twitter: https://twitter.com/Facebook
+            crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
             name: Qualcomm, Inc.
             homepage_url: https://qualcomm.com/
             logo: qualcomm_inc.svg
@@ -86,6 +98,12 @@ landscape:
             twitter: https://twitter.com/ShoelaceW
             crunchbase: https://www.crunchbase.com/organization/shoelace-wireless
           - item:
+            name: Teal Communications, Inc.
+            homepage_url: https://tealcom.io/
+            logo: teal_communications_inc.svg
+            twitter: https://twitter.com/tealcomio
+            crunchbase: https://www.crunchbase.com/organization/teal-communications-inc
+          - item:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
@@ -100,6 +118,12 @@ landscape:
             logo: free5gc.svg
             organization:
               name: free5GC
+          - item:
+            name: Open Infrastructure Foundation
+            homepage_url: https://openinfra.dev/
+            logo: open_infrastructure_foundation.svg
+            twitter: https://twitter.com/openinfradev
+            crunchbase: https://www.crunchbase.com/organization/openstack
       - subcategory:
         name: Associate
         items: []
