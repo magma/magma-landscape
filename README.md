@@ -1,7 +1,7 @@
-[![Dependency Status][]][1] [![Netlify Status]][2]
+[![Netlify Status]][2]
 
 <!-- Change to the name of your landscape -->
-# Landscape Template
+# Magma Landscape 
 
 ![Landscape Template Logo]
 
@@ -16,7 +16,7 @@
 -   [Vulnerability reporting]
 
 <!-- Change to the description of your landscape -->
-This landscape is intended as a map to explore the OSPO Ecosystem, and also shows the member companies of the TODO Group. 
+This landscape is intended as a map to explore the Magma Core Ecosystem, and also shows the member companies of the Magma Core Foundation. 
 
 It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] and based on the same open source code.
 
@@ -77,13 +77,13 @@ You can install and run locally with the [install directions]. It's not necessar
 Please open an [issue] or, for sensitive information, email info\@cncf.io.
 
 <!--- Update urls and references in this section -->
-[Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
+[Dependency Status]: https://img.shields.io/david/magma/magma-landscape.svg?style=flat-square
 [1]: https://david-dm.org/magma/magma-landscape
 [Netlify Status]: https://api.netlify.com/api/v1/badges/710bd979-eeba-497c-90ca-5302c652618d/deploy-status
 [2]: https://app.netlify.com/sites/magma-landscape/deploys
-[landscape.magmacore.org]: https://magmalandscape.magmacore.org
-[PDF]: https://magmalandscape.magmacore.org/images/landscape.pdf
-[PNG]: https://magmalandscape.magmacore.org/images/landscape.png
+[landscape.magmacore.org]: https:/landscape.magmacore.org
+[PDF]: https://landscape.magmacore.org/images/landscape.pdf
+[PNG]: https://landscape.magmacore.org/images/landscape.png
 [issue]: https://github.com/magma/magma-landscape/issues/new
 [projects sorted by last update]: https://magmalandscape.magmacore.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 <!--- These shouldn't need updated -->
