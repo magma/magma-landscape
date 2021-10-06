@@ -109,6 +109,12 @@ landscape:
             logo: wavelabs.svg
             twitter: https://twitter.com/WavelabsTech
             crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
+          - item:
+            name: Whitestack LLC
+            homepage_url: https://whitestack.com/
+            logo: whitestack_llc.svg
+            organization:
+              name: Whitestack LLC
       - subcategory:
         name: Ecosystem
         items:
