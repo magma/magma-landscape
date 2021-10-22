@@ -119,12 +119,6 @@ landscape:
         name: Ecosystem
         items:
           - item:
-            name: free5GC
-            homepage_url: https://free5gc.org/
-            logo: free5gc.svg
-            organization:
-              name: free5GC
-          - item:
             name: Open Infrastructure Foundation
             homepage_url: https://openinfra.dev/
             logo: open_infrastructure_foundation.svg
