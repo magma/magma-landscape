@@ -126,4 +126,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/openstack
       - subcategory:
         name: Associate
-        items: []
+        items:
+          - item:
+            name: free5GC
+            homepage_url: https://free5gc.org/
+            logo: free5gc.svg
+            organization:
+              name: free5GC
+          - item:
+            name: Ramanujan College
+            homepage_url: https://ramanujancollege.ac.in/
+            logo: ramanujan_college.svg
+            organization:
+              name: Ramanujan College
