@@ -119,6 +119,13 @@ landscape:
         name: Ecosystem
         items:
           - item:
+            name: OpenAirInterface Software Alliance (OSA)
+            homepage_url: https://openairinterface.org/
+            logo: openairinterface_software_alliance_osa.svg
+            twitter: https://twitter.com/osalliance5g
+            organization:
+              name: OpenAirInterface Software Alliance (OSA)
+          - item:
             name: Open Infrastructure Foundation
             homepage_url: https://openinfra.dev/
             logo: open_infrastructure_foundation.svg
