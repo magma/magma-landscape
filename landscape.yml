@@ -104,6 +104,12 @@ landscape:
             twitter: https://twitter.com/tealcomio
             crunchbase: https://www.crunchbase.com/organization/teal-communications-inc
           - item:
+            name: Telaverge Communications
+            homepage_url: https://telavergecommunications.com/
+            logo: telaverge_communications.svg
+            organization:
+              name: Telaverge Communications
+          - item:
             name: Wavelabs
             homepage_url: https://wavelabs.ai/
             logo: wavelabs.svg
