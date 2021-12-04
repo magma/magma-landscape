@@ -12,9 +12,9 @@ landscape:
             twitter: https://twitter.com/Arm
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
-            name: Facebook, Inc.
+            name: Meta
             homepage_url: https://facebook.com/
-            logo: facebook_inc.svg
+            logo: meta.svg
             twitter: https://twitter.com/Facebook
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
