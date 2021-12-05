@@ -63,6 +63,12 @@ landscape:
             organization:
               name: Connect 5G, Inc.
           - item:
+            name: ecrio
+            homepage_url: https://ecrio.com/
+            logo: ecrio.svg
+            organization:
+              name: ecrio
+          - item:
             name: Helium Systems, Inc.
             homepage_url: https://helium.com/
             logo: helium_systems_inc.svg
