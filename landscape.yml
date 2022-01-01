@@ -98,12 +98,6 @@ landscape:
             logo: sempreai.svg
             crunchbase: https://www.crunchbase.com/organization/sempre
           - item:
-            name: Shoelace Wireless Inc
-            homepage_url: https://shoelacewireless.com/
-            logo: shoelace_wireless_inc.svg
-            twitter: https://twitter.com/ShoelaceW
-            crunchbase: https://www.crunchbase.com/organization/shoelace-wireless
-          - item:
             name: Teal Communications, Inc.
             homepage_url: https://tealcom.io/
             logo: teal_communications_inc.svg
