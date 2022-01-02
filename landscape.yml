@@ -6,6 +6,12 @@ landscape:
         name: Premier
         items:
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
@@ -66,8 +72,8 @@ landscape:
             name: ecrio
             homepage_url: https://ecrio.com/
             logo: ecrio.svg
-            organization:
-              name: ecrio
+            twitter: https://twitter.com/ecriousera
+            crunchbase: https://www.crunchbase.com/organization/ecrio
           - item:
             name: Helium Systems, Inc.
             homepage_url: https://helium.com/
