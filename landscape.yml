@@ -51,6 +51,13 @@ landscape:
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
           - item:
+            name: Althea
+            homepage_url: https://althea.net/
+            logo: althea.svg
+            twitter: https://twitter.com/AltheaNetwork
+            organization:
+              name: Althea
+          - item:
             name: AQSACOM
             homepage_url: https://aqsacom.com/
             logo: aqsacom.svg
@@ -74,6 +81,12 @@ landscape:
             logo: ecrio.svg
             twitter: https://twitter.com/ecriousera
             crunchbase: https://www.crunchbase.com/organization/ecrio
+          - item:
+            name: FreedomFi
+            homepage_url: https://freedomfi.com/
+            logo: freedomfi.svg
+            twitter: https://twitter.com/Open5G
+            crunchbase: https://www.crunchbase.com/organization/freedomfi
           - item:
             name: Helium Systems, Inc.
             homepage_url: https://helium.com/
@@ -125,8 +138,7 @@ landscape:
             name: Whitestack LLC
             homepage_url: https://whitestack.com/
             logo: whitestack_llc.svg
-            organization:
-              name: Whitestack LLC
+            crunchbase: https://www.crunchbase.com/organization/whitestack
       - subcategory:
         name: Ecosystem
         items:
