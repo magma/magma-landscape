@@ -139,6 +139,12 @@ landscape:
             homepage_url: https://whitestack.com/
             logo: whitestack_llc.svg
             crunchbase: https://www.crunchbase.com/organization/whitestack
+          - item:
+            name: ZEDEDA, Inc.
+            homepage_url: https://zededa.com/
+            logo: zededa_inc.svg
+            twitter: https://twitter.com/ZededaEdge
+            crunchbase: https://www.crunchbase.com/organization/zededa
       - subcategory:
         name: Ecosystem
         items:
