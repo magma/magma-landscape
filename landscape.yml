@@ -45,6 +45,12 @@ landscape:
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
+          - item:
             name: Althea
             homepage_url: https://althea.net/
             logo: althea.svg
