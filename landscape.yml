@@ -17,6 +17,7 @@ landscape:
             logo: meta_platforms_inc.svg
             twitter: https://twitter.com/Facebook
             crunchbase: https://www.crunchbase.com/organization/facebook
+            stock_ticker: META
           - item:
             name: Qualcomm, Inc.
             homepage_url: https://qualcomm.com/
