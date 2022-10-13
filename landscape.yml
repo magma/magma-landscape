@@ -6,16 +6,10 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Arm Limited
-            homepage_url: https://arm.com/
-            logo: arm_limited.svg
-            twitter: https://twitter.com/Arm
-            crunchbase: https://www.crunchbase.com/organization/arm
-          - item:
             name: Meta Platforms, Inc.
-            homepage_url: https://facebook.com/
+            homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Facebook
+            twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
             stock_ticker: META
           - item:
@@ -45,6 +39,12 @@ landscape:
             logo: aarna_networks.svg
             twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
+          - item:
+            name: Accuknox
+            homepage_url: https://accuknox.com/
+            logo: accuknox.svg
+            twitter: https://twitter.com/AccuKnox
+            crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
@@ -89,6 +89,12 @@ landscape:
             twitter: https://twitter.com/Open5G
             crunchbase: https://www.crunchbase.com/organization/freedomfi
           - item:
+            name: GenXcomm Inc
+            homepage_url: https://genxcomm.com/
+            logo: genxcomm_inc.svg
+            twitter: https://twitter.com/GXC_io
+            crunchbase: https://www.crunchbase.com/organization/genxcomm
+          - item:
             name: Helium Systems, Inc.
             homepage_url: https://helium.com/
             logo: helium_systems_inc.svg
@@ -116,6 +122,7 @@ landscape:
             name: Sempre.ai
             homepage_url: https://sempre.ai/
             logo: sempreai.svg
+            twitter: https://twitter.com/sempre_usa
             crunchbase: https://www.crunchbase.com/organization/sempre
           - item:
             name: Teal Communications, Inc.
