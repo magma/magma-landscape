@@ -4,26 +4,7 @@ landscape:
     subcategories:
       - subcategory:
         name: Premier
-        items:
-          - item:
-            name: Meta Platforms, Inc.
-            homepage_url: https://meta.com/
-            logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            stock_ticker: META
-          - item:
-            name: Qualcomm, Inc.
-            homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
-            twitter: https://twitter.com/Qualcomm
-            crunchbase: https://www.crunchbase.com/organization/qualcomm
-          - item:
-            name: Red Hat, Inc.
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
+        items: []
       - subcategory:
         name: General
         items:
@@ -64,12 +45,6 @@ landscape:
             logo: aqsacom.svg
             twitter: https://twitter.com/AqsacomGlobal
             crunchbase: https://www.crunchbase.com/organization/aqsacom
-          - item:
-            name: Canonical Group Limited
-            homepage_url: https://canonical.com/
-            logo: canonical_group_limited.svg
-            twitter: https://twitter.com/Canonical
-            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
             name: Connect 5G, Inc.
             homepage_url: https://connectvg.com/
@@ -136,12 +111,6 @@ landscape:
             logo: telaverge_communications.svg
             organization:
               name: Telaverge Communications
-          - item:
-            name: Wavelabs
-            homepage_url: https://wavelabs.ai/
-            logo: wavelabs.svg
-            twitter: https://twitter.com/WavelabsTech
-            crunchbase: https://www.crunchbase.com/organization/wavelabs-technologies-private-limited
           - item:
             name: Whitestack LLC
             homepage_url: https://whitestack.com/
