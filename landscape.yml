@@ -145,6 +145,7 @@ landscape:
             name: free5GC
             homepage_url: https://free5gc.org/
             logo: free5gc.svg
+            twitter: https://twitter.com/free5gc
             organization:
               name: free5GC
           - item:
