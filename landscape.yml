@@ -52,12 +52,6 @@ landscape:
             organization:
               name: Connect 5G, Inc.
           - item:
-            name: ecrio
-            homepage_url: https://ecrio.com/
-            logo: ecrio.svg
-            twitter: https://twitter.com/ecriousera
-            crunchbase: https://www.crunchbase.com/organization/ecrio
-          - item:
             name: FreedomFi
             homepage_url: https://freedomfi.com/
             logo: freedomfi.svg
