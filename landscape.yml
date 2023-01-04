@@ -9,107 +9,17 @@ landscape:
         name: General
         items:
           - item:
-            name: 0Chain
-            homepage_url: https://0chain.net/
-            logo: 0chain.svg
-            twitter: https://twitter.com/zus_network
-            crunchbase: https://www.crunchbase.com/organization/0chain
-          - item:
-            name: Aarna Networks
-            homepage_url: https://aarnanetworks.com/
-            logo: aarna_networks.svg
-            twitter: https://twitter.com/aarnanetworks
-            crunchbase: https://www.crunchbase.com/organization/aarna-networks
-          - item:
             name: Accuknox
             homepage_url: https://accuknox.com/
             logo: accuknox.svg
             twitter: https://twitter.com/AccuKnox
             crunchbase: https://www.crunchbase.com/organization/accuknox
           - item:
-            name: Advanced Micro Devices (AMD)
-            homepage_url: https://amd.com/
-            logo: advanced_micro_devices_amd.svg
-            twitter: https://twitter.com/AMD
-            crunchbase: https://www.crunchbase.com/organization/amd
-          - item:
-            name: Althea
-            homepage_url: https://althea.net/
-            logo: althea.svg
-            twitter: https://twitter.com/AltheaNetwork
-            organization:
-              name: Althea
-          - item:
-            name: AQSACOM
-            homepage_url: https://aqsacom.com/
-            logo: aqsacom.svg
-            twitter: https://twitter.com/AqsacomGlobal
-            crunchbase: https://www.crunchbase.com/organization/aqsacom
-          - item:
-            name: Connect 5G, Inc.
-            homepage_url: https://connectvg.com/
-            logo: connect_5g_inc.svg
-            organization:
-              name: Connect 5G, Inc.
-          - item:
-            name: FreedomFi
-            homepage_url: https://freedomfi.com/
-            logo: freedomfi.svg
-            twitter: https://twitter.com/Open5G
-            crunchbase: https://www.crunchbase.com/organization/freedomfi
-          - item:
             name: GenXcomm Inc
             homepage_url: https://genxcomm.com/
             logo: genxcomm_inc.svg
             twitter: https://twitter.com/GXC_io
             crunchbase: https://www.crunchbase.com/organization/genxcomm
-          - item:
-            name: Helium Systems, Inc.
-            homepage_url: https://helium.com/
-            logo: helium_systems_inc.svg
-            twitter: https://twitter.com/helium
-            crunchbase: https://www.crunchbase.com/organization/helium-systems-inc
-          - item:
-            name: Highway9 Networks
-            homepage_url: https://highway9networks.com/
-            logo: highway9_networks.svg
-            organization:
-              name: Highway9 Networks
-          - item:
-            name: Platform9 Systems, Inc.
-            homepage_url: https://platform9.com/
-            logo: platform9_systems_inc.svg
-            twitter: https://twitter.com/Platform9Sys
-            crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
-          - item:
-            name: RADTONICS
-            homepage_url: https://radtonics.com/
-            logo: radtonics.svg
-            organization:
-              name: RADTONICS
-          - item:
-            name: Sempre.ai
-            homepage_url: https://sempre.ai/
-            logo: sempreai.svg
-            twitter: https://twitter.com/sempre_usa
-            crunchbase: https://www.crunchbase.com/organization/sempre
-          - item:
-            name: Teal Communications, Inc.
-            homepage_url: https://tealcom.io/
-            logo: teal_communications_inc.svg
-            twitter: https://twitter.com/tealcomio
-            crunchbase: https://www.crunchbase.com/organization/teal-communications-inc
-          - item:
-            name: Telaverge Communications
-            homepage_url: https://telavergecommunications.com/
-            logo: telaverge_communications.svg
-            organization:
-              name: Telaverge Communications
-          - item:
-            name: Whitestack LLC
-            homepage_url: https://whitestack.com/
-            logo: whitestack_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/whitestack
           - item:
             name: ZEDEDA, Inc.
             homepage_url: https://zededa.com/
@@ -118,20 +28,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/zededa
       - subcategory:
         name: Ecosystem
-        items:
-          - item:
-            name: OpenAirInterface Software Alliance (OSA)
-            homepage_url: https://openairinterface.org/
-            logo: openairinterface_software_alliance_osa.svg
-            twitter: https://twitter.com/osalliance5g
-            organization:
-              name: OpenAirInterface Software Alliance (OSA)
-          - item:
-            name: Open Infrastructure Foundation
-            homepage_url: https://openinfra.dev/
-            logo: open_infrastructure_foundation.svg
-            twitter: https://twitter.com/openinfradev
-            crunchbase: https://www.crunchbase.com/organization/openstack
+        items: []
       - subcategory:
         name: Associate
         items:
